@@ -1,0 +1,4 @@
+Project process and explanation/s:
+
+8/25/25: Checked for node.js (npm), by using ubantu/wsl (linux) terminal. Used the command: "sudo apt update && sudo apt upgrade" in the linux terminal to update linux distribution
+to its latest version.
