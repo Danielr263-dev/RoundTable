@@ -1,4 +1,9 @@
 Project process and explanation/s:
 
 8/25/25: Checked for node.js (npm), by using ubantu/wsl (linux) terminal. Used the command: "sudo apt update && sudo apt upgrade" in the linux terminal to update linux distribution
-to its latest version.
+to its latest version. Removed current versions of npm and node.js with the command: "sudo apt-get purge --auto-remove nodejs". Installed curl with the following command:
+"sudo apt-get install curl". Installed stable version of nvm with command: "nvm install --lts". Intalled latest version of nvm with command: "nvm install node". For changing node
+versions we do the following: Create new project directory "mkdir NodeTest". Enter the directory. Enter: "nvm use code" to switch to curr version, or "nvm use --lts" to switch
+to LTS version. 
+NPM and Node.js are installed (via linux terminal) at this time. --Daniel
+
