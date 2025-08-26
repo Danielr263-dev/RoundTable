@@ -5,6 +5,8 @@ Will be using the following technologies followed by what they'll be used for:
 
 Backend: 
 Technology / Purpose
+
+
 Node.js	/ JavaScript runtime for building the backend. Fast, non-blocking, great for real-time features.
 TypeScript	/ Strongly-typed superset of JS. Prevents runtime errors, improves maintainability, looks professional to Twitch.
 Express.js	/ Minimalist web framework for Node. Handles routing, middleware, request/response.
